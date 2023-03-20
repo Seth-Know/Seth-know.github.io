@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "covid.nurse.snhd",
+      "sha256_cert_fingerprints":
+      ["61:F0:11:68:0F:DB:10:3D:11:CF:4A:A4:62:95:41:6E:5E:B0:8A:03:EA:92:B7:57:33:0F:BB:EE:AC:CC:4C:1B"]
+    }
+  }]
